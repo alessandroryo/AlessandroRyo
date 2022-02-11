@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Github-Banner-AlessandroRyo](https://user-images.githubusercontent.com/89993118/153680175-0d9635f0-63b6-45d9-8ec4-18db970117d6.png)
+
 <!--
 **alessandroryo/AlessandroRyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
