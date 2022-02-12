@@ -3,7 +3,7 @@
 
 <!-- ABOUT ME -->
 # ⭐ About Me :
-I'm Alessandro Ryo, an Indonesian 🇮🇩 undergraduate student in ICT at HZ University of Applied Sciences in Middelburg. I want to be a technopreneur with lots of new and fresh ideas ✨.
+I'm __Alessandro Ryo__, an Indonesian 🇮🇩 undergraduate student in ICT at HZ University of Applied Sciences in Middelburg. I want to be a technopreneur with lots of new and fresh ideas ✨.
 
 <!-- SOCIAL MEDIA -->
 # ✉️ Social Media :
