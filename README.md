@@ -7,7 +7,7 @@ I'm __Alessandro Ryo__, an Indonesian 🇮🇩 undergraduate student in ICT at H
 
 <!-- SOCIAL MEDIA -->
 # ✉️ Social Media :
-- ![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) : alessandroryo.github.io/my-website/
+- ![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) : alessandroryo.github.io/Personal-Website/
 - ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : alessandroryo@gmail.com
 - ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) : [@alessandroryo](https://www.instagram.com/alessandroryo/)
 - ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) : [@alessandroryo](https://www.instagram.com/alessandroryo/)
